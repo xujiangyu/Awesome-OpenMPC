@@ -1,5 +1,7 @@
 # Awesome-OpenMPC
 
+[English](README.md)  [Chinese](README_CN.md)
+
 # 1 Introduction
 # 2 Theory
 

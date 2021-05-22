@@ -1,5 +1,7 @@
 # Awesome-OpenMPC
 
+[英文版](README.md)  [中文版](README_CN.md)
+
 # 1 介绍
 # 2 理论
 
