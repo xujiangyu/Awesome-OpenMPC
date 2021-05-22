@@ -1,9 +1,9 @@
 # Awesome-OpenMPC
 
-# 1 Introduction
-# 2 Theory
+# 1 介绍
+# 2 理论
 
-## 2.1 Academic papers
+## 2.1 学术论文
 
 ### 2.1.1 General Cryptographic Primitives
 
