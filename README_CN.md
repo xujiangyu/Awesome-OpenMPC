@@ -1,4 +1,4 @@
-# Awesome-OpenMPC
+# Awesome-OpenMPCmain
 
 [英文版](README.md)  [中文版](README_CN.md)
 
@@ -57,10 +57,14 @@ SMPC is roughly divided into the following genres:
 
 #### 2.1.1.3 Homomorphic encryption
 
+Coming Soon...
+
 
 
 #### 2.1.1.4 Zero knowledge proof
 
+
+Coming Soon...
 
 
 ### 2.1.2 Specialized cryptography protocols
@@ -74,9 +78,13 @@ SMPC is roughly divided into the following genres:
 #### 2.1.2.2 PIR
 
 
+Coming Soon...
+
 
 #### 2.1.2.3 PIS
 
+
+Coming Soon...
 
 
 #### 2.1.2.4 Multiparty ECDSA signing
@@ -94,18 +102,24 @@ SMPC is roughly divided into the following genres:
 ### 2.1.3 Federal Learning
 
 
+Coming Soon...
+
 
 ### 2.1.4 TEE
 
+
+Coming Soon...
 
 
 ### 2.1.5 BlockChain
 
 
+Coming Soon...
+
 
 ### 2.1.6 PPML
 
-
+Coming Soon
 
 
 
@@ -129,15 +143,15 @@ SMPC is roughly divided into the following genres:
 
 ### 2.3.2 Federal Learning
 
-
+Coming Soon...
 
 ### 2.3.3 TEE
 
-
+Coming Soon...
 
 ### 2.3.4 BlockChain
 
-
+Coming Soon...
 
 ## 2.4 Courses
 
@@ -170,6 +184,12 @@ SMPC is roughly divided into the following genres:
 - [Sharemind](https://sharemind.cyber.ee/) - 2PC or 3PC with secret sharing; secure against semi-honest adversaries. | [Cyber'13](https://cyber.ee/research/theses/roman_jagomagis_msc.pdf).
 - [swanky](https://github.com/GaloisInc/swanky) - A suite of rust libraries for secure multi-party computation (currently includes oblivious transfer, garbled circuits, and private set intersection).
 - [Tf-encrypted](https://github.com/mortendahl/tf-encrypted/) - 3PC with secret sharing; secure against semi-honest adversaries; focused on TensorFlow-based applications.
+- [MOTION](https://github.com/encryptogroup/MOTION)-MOTION - A Framework for Mixed-Protocol Multi-Party Computation.
+- [SecMML](https://github.com/FudanMPL/SecMML) - SecMML, a branch of FudanMPL (Multi-Party Computation + Machine Learning) , is a scalable and efficient MPC framework for training machine learning models based on BGW protocol.
+- [OpenPEGASUS](https://github.com/Alibaba-Gemini-Lab/OpenPEGASUS) - Pegasus: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption.
+- [Drynx](https://github.com/ldsec/drynx) - Drynx: Decentralized, Secure, Verifiable System for Statistical Queries and Machine Learning on Distributed Datasets.
+- [MK-TFHE](Multi-Key Homomophic Encryption from TFHE) - MK-TFHE is a proof-of-concept implementation of a multi-key version of TFHE. The code is written on top of the TFHE library (https://tfhe.github.io/tfhe/).
+- 
 
 # 4 Framework optimization
 
