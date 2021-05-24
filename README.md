@@ -57,11 +57,11 @@ SMPC is roughly divided into the following genres:
 
 #### 2.1.1.3 Homomorphic encryption
 
-
+Coming Soon
 
 #### 2.1.1.4 Zero knowledge proof
 
-
+Coming Soon
 
 ### 2.1.2 Specialized cryptography protocols
 
@@ -73,11 +73,11 @@ SMPC is roughly divided into the following genres:
 
 #### 2.1.2.2 PIR
 
-
+Coming Soon
 
 #### 2.1.2.3 PIS
 
-
+Coming Soon
 
 #### 2.1.2.4 Multiparty ECDSA signing
 
@@ -93,19 +93,19 @@ SMPC is roughly divided into the following genres:
 
 ### 2.1.3 Federal Learning
 
-
+Coming Soon
 
 ### 2.1.4 TEE
 
-
+Coming Soon
 
 ### 2.1.5 BlockChain
 
-
+Coming Soon
 
 ### 2.1.6 PPML
 
-
+Coming Soon
 
 
 
@@ -129,15 +129,15 @@ SMPC is roughly divided into the following genres:
 
 ### 2.3.2 Federal Learning
 
-
+Coming Soon
 
 ### 2.3.3 TEE
 
-
+Coming Soon
 
 ### 2.3.4 BlockChain
 
-
+Coming Soon
 
 ## 2.4 Courses
 
@@ -153,7 +153,11 @@ SMPC is roughly divided into the following genres:
 
 
 # 3 Open Source Framework
-
+- [MOTION](https://github.com/encryptogroup/MOTION)-MOTION - A Framework for Mixed-Protocol Multi-Party Computation.
+- [SecMML](https://github.com/FudanMPL/SecMML) - SecMML, a branch of FudanMPL (Multi-Party Computation + Machine Learning) , is a scalable and efficient MPC framework for training machine learning models based on BGW protocol.
+- [OpenPEGASUS](https://github.com/Alibaba-Gemini-Lab/OpenPEGASUS) - Pegasus: Bridging Polynomial and Non-polynomial Evaluations in Homomorphic Encryption.
+- [Drynx](https://github.com/ldsec/drynx) - Drynx: Decentralized, Secure, Verifiable System for Statistical Queries and Machine Learning on Distributed Datasets.
+- [MK-TFHE](Multi-Key Homomophic Encryption from TFHE) - MK-TFHE is a proof-of-concept implementation of a multi-key version of TFHE. The code is written on top of the TFHE library (https://tfhe.github.io/tfhe/).
 - [ABY](https://github.com/encryptogroup/ABY) - 2PC with secret sharing and garbled circuits; secure against semi-honest adversaries. | [NDSS'15](http://encrypto.de/papers/DSZ15.pdf).
 - [ABY3](https://github.com/ladnir/aby3) - 3PC with secret sharing for privacy preserving machine learning and database joins (PSI, Union, etc.); secure against semi-honest adversaries. | [CCS'18](https://eprint.iacr.org/2018/403.pdf), [2019/518](https://eprint.iacr.org/2019/518.pdf).
 - [BatchDualEx](https://github.com/osu-crypto/batchDualEx) - 2PC with garbled circuits; secure against malicious adversaries. | eprint: [2016/632](https://eprint.iacr.org/2016/632).
